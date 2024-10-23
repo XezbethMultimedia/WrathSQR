@@ -1,5 +1,6 @@
 # WrathSQR
 A remake of my previous game.
-==ToDo==
+
+*ToDo*
 - create tile sheet
 - create base level
